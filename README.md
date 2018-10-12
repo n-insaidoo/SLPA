@@ -1,5 +1,5 @@
 # SLPA
-Shopping List Personal Assistant - Facebook Messenger Chatbot
+Shopping List Personal Assistant - [Facebook Messenger Chatbot](https://developers.facebook.com/docs/messenger-platform/)
 
 PHP framework representing a simple Chatbot aimed at managing communal shopping lists. The Chatbot operates within Facebook Messenger platform. At the current stage the latter does not operate throuh [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) (Natural Language Processing), but the system is structured to easily allow this integration and many other in the future. The system only responds to a set of predefined commands and the entries on [Persistance Menu](https://developers.facebook.com/docs/messenger-platform/reference/messenger-profile-api/persistent-menu/):
 
